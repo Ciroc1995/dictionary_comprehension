@@ -1,3 +1,6 @@
+import random
+from pprint import pprint
+
 # Desafio 1
 sorteios = ['sorteio1', 'sorteio2', 'sorteio3']
 participantes = ['joel', 'jessica', 'maria', 'cris', 'Larissa', 'rafael', 'marcus', 'john']
